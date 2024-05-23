@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me https://www.linkedin.com/in/satnam-singh-davy
+- 📫 How to reach me https://www.linkedin.com/in/satnam13
+- 
 - ⚡ Fun fact: I am aslo a gamer
 
 <!---
